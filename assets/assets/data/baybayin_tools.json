@@ -1,0 +1,22 @@
+[
+  {
+    "title": "BAYBAYIN GUIDE",
+    "imagePath": "assets/images/baybayin_tools_icons/baybayin_guide_unselected.png",
+    "route": "/baybayin-guide"
+  },
+  {
+    "title": "BAYBAYIN\nPHRASEBOOK",
+    "imagePath": "assets/images/baybayin_tools_icons/baybayin_phrasebook_unselected.png",
+    "route": "/baybayin-phrasebook"
+  },
+  {
+    "title": "BAYBAYIN\nCHARACTERS",
+    "imagePath": "assets/images/baybayin_tools_icons/baybayin_characters_unselected.png",
+    "route": "/baybayin-characters"
+  },
+  {
+    "title": "BAYBAYIN\nTRANSLITERATOR",
+    "imagePath": "assets/images/baybayin_tools_icons/baybayin_transliterator_unselected.png",
+    "route": "/baybayin-transliterator"
+  }
+]

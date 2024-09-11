@@ -1,0 +1,304 @@
+[
+  {
+    "category_number": 1,
+    "category_title": "Patinig",
+    "characters": [
+      {
+        "character": "A",
+        "character_label": "A"
+      },
+      {
+        "character": "E",
+        "character_2": "I",
+        "character_label": "E/I"
+      },
+      {
+        "character": "O",
+        "character_2": "U",
+        "character_label": "O/U"
+      }
+    ]
+  },
+  {
+    "category_number": 2,
+    "category_title": "Abugida",
+    "characters": [
+      {
+        "character": "Ba",
+        "character_label": "Ba"
+      },
+      {
+        "character": "Be",
+        "character_2": "Bi",
+        "character_label": "Be/Bi"
+      },
+      {
+        "character": "Bo",
+        "character_2": "Bu",
+        "character_label": "Bo/Bu"
+      },
+      {
+        "character": "Ka",
+        "character_label": "Ka"
+      },
+      {
+        "character": "Ke",
+        "character_2": "Ki",
+        "character_label": "Ke/Ki"
+      },
+      {
+        "character": "Ko",
+        "character_2": "Ku",
+        "character_label": "Ko/Ku"
+      },
+      {
+        "character": "Da",
+        "character_label": "Da"
+      },
+      {
+        "character": "De",
+        "character_2": "Di",
+        "character_label": "De/Di"
+      },
+      {
+        "character": "Do",
+        "character_2": "Du",
+        "character_label": "Do/Du"
+      },
+      {
+        "character": "Ga",
+        "character_label": "Ga"
+      },
+      {
+        "character": "Ge",
+        "character_2": "Gi",
+        "character_label": "Ge/Gi"
+      },
+      {
+        "character": "Go",
+        "character_2": "Gu",
+        "character_label": "Go/Gu"
+      },
+      {
+        "character": "Ha",
+        "character_label": "Ha"
+      },
+      {
+        "character": "He",
+        "character_2": "Hi",
+        "character_label": "He/Hi"
+      },
+      {
+        "character": "Ho",
+        "character_2": "Hu",
+        "character_label": "Ho/Hu"
+      },
+      {
+        "character": "La",
+        "character_label": "La"
+      },
+      {
+        "character": "Le",
+        "character_2": "Li",
+        "character_label": "Le/Li"
+      },
+      {
+        "character": "Lo",
+        "character_2": "Lu",
+        "character_label": "Lo/Lu"
+      },
+      {
+        "character": "Ma",
+        "character_label": "Ma"
+      },
+      {
+        "character": "Me",
+        "character_2": "Mi",
+        "character_label": "Me/Mi"
+      },
+      {
+        "character": "Mo",
+        "character_2": "Mu",
+        "character_label": "Mo/Mu"
+      },
+      {
+        "character": "Na",
+        "character_label": "Na"
+      },
+      {
+        "character": "Ne",
+        "character_2": "Ni",
+        "character_label": "Ne/Ni"
+      },
+      {
+        "character": "No",
+        "character_2": "Nu",
+        "character_label": "No/Nu"
+      },
+      {
+        "character": "Nga",
+        "character_label": "Nga"
+      },
+      {
+        "character": "Nge",
+        "character_2": "Ngi",
+        "character_label": "Nge/Ngi"
+      },
+      {
+        "character": "Ngo",
+        "character_2": "Ngu",
+        "character_label": "Ngo/Ngu"
+      },
+      {
+        "character": "Pa",
+        "character_label": "Pa"
+      },
+      {
+        "character": "Pe",
+        "character_2": "Pi",
+        "character_label": "Pe/Pi"
+      },
+      {
+        "character": "Po",
+        "character_2": "Pu",
+        "character_label": "Po/Pu"
+      },
+      {
+        "character": "Ra",
+        "character_label": "Ra"
+      },
+      {
+        "character": "Re",
+        "character_2": "Ri",
+        "character_label": "Re/Ri"
+      },
+      {
+        "character": "Ro",
+        "character_2": "Ru",
+        "character_label": "Ro/Ru"
+      },
+      {
+        "character": "Sa",
+        "character_label": "Sa"
+      },
+      {
+        "character": "Se",
+        "character_2": "Si",
+        "character_label": "Se/Si"
+      },
+      {
+        "character": "So",
+        "character_2": "Su",
+        "character_label": "So/Su"
+      },
+      {
+        "character": "Ta",
+        "character_label": "Ta"
+      },
+      {
+        "character": "Te",
+        "character_2": "Ti",
+        "character_label": "Te/Ti"
+      },
+      {
+        "character": "To",
+        "character_2": "Tu",
+        "character_label": "To/Tu"
+      },
+      {
+        "character": "Wa",
+        "character_label": "Wa"
+      },
+      {
+        "character": "We",
+        "character_2": "Wi",
+        "character_label": "We/Wi"
+      },
+      {
+        "character": "Wo",
+        "character_2": "Wu",
+        "character_label": "Wo/Wu"
+      },
+      {
+        "character": "Ya",
+        "character_label": "Ya"
+      },
+      {
+        "character": "Ye",
+        "character_2": "Yi",
+        "character_label": "Ye/Yi"
+      },
+      {
+        "character": "Yo",
+        "character_2": "Yu",
+        "character_label": "Yo/Yu"
+      }
+    ]
+  },
+  {
+    "category_number": 3,
+    "category_title": "Alpabeto",
+    "characters": [
+      {
+        "character": "B",
+        "character_label": "B"
+      },
+      {
+        "character": "K",
+        "character_label": "K"
+      },
+      {
+        "character": "D",
+        "character_label": "D"
+      },
+      {
+        "character": "G",
+        "character_label": "G"
+      },
+      {
+        "character": "H",
+        "character_label": "H"
+      },
+      {
+        "character": "L",
+        "character_label": "L"
+      },
+      {
+        "character": "M",
+        "character_label": "M"
+      },
+      {
+        "character": "N",
+        "character_label": "N"
+      },
+      {
+        "character": "Ng",
+        "character_label": "Ng"
+      },
+      {
+        "character": "P",
+        "character_label": "P"
+      },
+      {
+        "character": "R",
+        "character_label": "R"
+      },
+      {
+        "character": "S",
+        "character_label": "S"
+      },
+      {
+        "character": "T",
+        "character_label": "T"
+      },
+      {
+        "character": "W",
+        "character_label": "W"
+      },
+      {
+        "character": "Y",
+        "character_label": "Y"
+      }
+    ]
+  }
+]

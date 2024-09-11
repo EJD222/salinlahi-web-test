@@ -1,0 +1,130 @@
+[
+  {
+    "category-number": 1,
+    "category-title": "Pagbati",
+    "image": "assets/images/baybayin_phrasebook_images/mga_pagbati.png",
+    "route": "/mga-pagbati",
+    "phrases": [
+      {
+        "phrase-in-latin-script": "Magandang umaga!",
+        "phrase-in-baybayin": "magandang umaga!"
+      },
+      {
+        "phrase-in-latin-script": "Magandang hapon!",
+        "phrase-in-baybayin": "magandang hapon!"
+      },
+      {
+        "phrase-in-latin-script": "Magandang gabi!",
+        "phrase-in-baybayin": "magandang gabi!"
+      },
+      {
+        "phrase-in-latin-script": "Ano ang iyong pangalan?",
+        "phrase-in-baybayin": "ano ang iyong pangalan?"
+      },
+      {
+        "phrase-in-latin-script": "Mag-ingat ka.",
+        "phrase-in-baybayin": "mag-ingat ka."
+      }
+    ]
+  },
+  {
+    "category-number": 2,
+    "category-title": "Direksyon",
+    "image": "assets/images/baybayin_phrasebook_images/mga_direksyon.png",
+    "route": "/mga-direksyon",
+    "phrases": [
+      {
+        "phrase-in-latin-script": "Saan ang … ?",
+        "phrase-in-baybayin": "saan ang … ?"
+      },
+      {
+        "phrase-in-latin-script": "Paano ako makakarating doon?",
+        "phrase-in-baybayin": "paano ako makakarating doon?"
+      },
+      {
+        "phrase-in-latin-script": "Kumaliwa ka.",
+        "phrase-in-baybayin": "kumaliwa ka."
+      }
+    ]
+  },
+  {
+    "category-number": 3,
+    "category-title": "Emergency",
+    "image": "assets/images/baybayin_phrasebook_images/emergency.png",
+    "route": "/mga-emergency",
+    "phrases": [
+      {
+        "phrase-in-latin-script": "Tulong!",
+        "phrase-in-baybayin": "tulong!"
+      },
+      {
+        "phrase-in-latin-script": "Nasaan ang ospital?",
+        "phrase-in-baybayin": "nasaan ang ospital?"
+      },
+      {
+        "phrase-in-latin-script": "May sunog!",
+        "phrase-in-baybayin": "may sunog!"
+      },
+      {
+        "phrase-in-latin-script": "Tumawag kayo ng doktor!",
+        "phrase-in-baybayin": "tumawag kayo nang doktor!"
+      },
+      {
+        "phrase-in-latin-script": "Saan ang pinakamalapit na istasyon ng pulisya?",
+        "phrase-in-baybayin": "saan ang pinakamalapit na istasyon nang pulisya?"
+      }
+    ]
+  },
+  {
+    "category-number": 4,
+    "category-title": "Usapan",
+    "image": "assets/images/baybayin_phrasebook_images/usapan.png",
+    "route": "/mga-usapan",
+    "phrases": [
+      {
+        "phrase-in-latin-script": "Maraming salamat!",
+        "phrase-in-baybayin": "maraming salamat!"
+      },
+      {
+        "phrase-in-latin-script": "Hindi ko maintindihan",
+        "phrase-in-baybayin": "hindi ko maintindihan"
+      },
+      {
+        "phrase-in-latin-script": "Ipagpaumanhin mo",
+        "phrase-in-baybayin": "ipagpaumanhin mo"
+      },
+      {
+        "phrase-in-latin-script": "Magkano po ito?",
+        "phrase-in-baybayin": "magkano po ito?"
+      },
+      {
+        "phrase-in-latin-script": "Walang anuman.",
+        "phrase-in-baybayin": "walang anuman."
+      }
+    ]
+  },
+  {
+    "category-number": 5,
+    "category-title": "Kaganapan",
+    "image": "assets/images/baybayin_phrasebook_images/mga_kaganapan.png",
+    "route": "/mga-kaganapan",
+    "phrases": [
+      {
+        "phrase-in-latin-script": "Maligayang kaarawan!",
+        "phrase-in-baybayin": "maligayang kaarawan!"
+      },
+      {
+        "phrase-in-latin-script": "Ako ay nakikiramay.",
+        "phrase-in-baybayin": "ako ay nakikiramay."
+      },
+      {
+        "phrase-in-latin-script": "Maligayang pasko!",
+        "phrase-in-baybayin": "maligayang pasko!"
+      },
+      {
+        "phrase-in-latin-script": "Binabati kita!",
+        "phrase-in-baybayin": "binabati kita!"
+      }
+    ]
+  }
+]
